@@ -1,0 +1,5 @@
+print("Hello my name is 123 abc 456")
+print("I like coding")
+print("My hobby is coding and doing school work")
+print(1 + 1)
+print("testing")
